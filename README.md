@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Mateo Álvarez Duarte
 
-<!--
-**Mateo-Duarte/Mateo-Duarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas.
 
-Here are some ideas to get you started:
+Me apasiona el desarrollo de software y actualmente estoy fortaleciendo mis conocimientos mediante proyectos prácticos. Mi objetivo es convertirme en desarrollador Full Stack y crear aplicaciones que resuelvan problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Conocimientos
+
+- Java
+- Python
+- SQL (consultas y diseño básico de bases de datos)
+- Programación Orientada a Objetos (POO)
+- Diagramas de flujo
+- Diagramas de clases (UML)
+- HTML y CSS
+- Git y GitHub
+
+## 📚 Próximas tecnologías
+
+- TypeScript
+- React
+- Node.js
+- Spring Boot
+- Docker
+
+## 📂 Proyectos
+
+- 📌 SimpleMavenProject
+- 🚧 Próximamente más proyectos de desarrollo web y backend.
+
+## 📫 Contacto
+
+- LinkedIn: (Tu perfil)
